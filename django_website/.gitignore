@@ -1,0 +1,9 @@
+# ディレクトリを無視
+.DS_Store
+.node_modules/
+myenv/
+venv/
+
+# 特定のファイルを無視
+config.ini
+secrets.json
